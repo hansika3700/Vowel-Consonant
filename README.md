@@ -35,3 +35,4 @@ if(isVowel == true) {
         }
    }
 }
+//The code ends here
